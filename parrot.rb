@@ -5,5 +5,7 @@ def parrot(phrase = "Squawk!")
   phrase
 end
 
-parrot(wow)
+parrot
+
+'Pretty bird!'
 
