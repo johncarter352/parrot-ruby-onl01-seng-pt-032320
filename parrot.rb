@@ -2,5 +2,5 @@
 # returns the phrase
 def parrot("Pretty Bird!")
   puts "Squawk!"
-  return "Squawk!"
+  "Squawk!"
 end
