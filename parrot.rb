@@ -6,5 +6,4 @@ end
 
 parrot
 
-parrot(parrot)
 
